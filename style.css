@@ -80,6 +80,7 @@ hr{
 }
 .type{
     height: 40px;
+    color: #000000;
     width: 100%;
     padding-left: 7px;
     font-size: 1rem;
